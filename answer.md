@@ -1,1 +1,1 @@
-[Alt text](gambar/dashboard.jpeg?raw=true "Title")
+![Alt text](gambar/dashboard.jpeg?raw=true "Title")
